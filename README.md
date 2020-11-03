@@ -19,3 +19,6 @@ Wireless Network Card and Bluetooth: Airport BMC94360
 
 Integrated LAN: Intel® Ethernet Connection I218-V
 
+
+
+There Still Seems To Be Some Issue about Waking Up The Hackintosh After My Tweaking.
