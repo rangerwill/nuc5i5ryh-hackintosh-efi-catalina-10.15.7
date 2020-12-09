@@ -21,4 +21,13 @@ Integrated LAN: Intel® Ethernet Connection I218-V
 
 
 
-There Still Seems To Be Some Issue about Waking Up The Hackintosh After My Tweaking.
+After My Tweaking,
+recovering from sleep seems to be function well.
+Do remember enable S3, S4 and S5 power state in BIOS setup!
+
+
+
+Attention!
+If you want to use another wireless network card to enable bluetooth and WiFi,
+do make sure if the orginal wireless network card has already been disabled,
+or the bluetooth will not function at all!
