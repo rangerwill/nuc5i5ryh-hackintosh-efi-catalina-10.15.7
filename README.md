@@ -35,3 +35,6 @@ Attention!
 If you want to use another wireless network card to enable bluetooth and WiFi,
 do make sure if the orginal wireless network card has already been disabled,
 or the bluetooth will not function at all!
+
+⚠About BIOS Setup
+https://www.jianshu.com/p/9f459fc80928
